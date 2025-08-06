@@ -23,3 +23,25 @@ Soon, we were back inside the auditorium where three speackers enlightened us ab
 Next in line was a super informative session on food and healthy eating habits, busting several common myths about food and portion control.
 
 Well, it was now time to call it a day, however, we got a crisp session on building our first GitHub project, under the title of the induction program, where seniors talked about READMEs, markdown language and other cool stuff.
+
+
+## Day3 (Saturday)
+
+
+## Day4 (Monday)
+
+The morning session started with two beautiful seniors that welcomed us for our first P2P lecture. It felt awesome to learn from someone whom you would aspire to become like one day, confident, friendly and ofcourse, knowledgeable to the core. They provided us with an insight into the world of C++, the very first language of every techie like me. 
+
+Next we began with our BEEE lecture, during which, all the cables, wires, and switchboards, weaved the threads of AC/DC into my head in the form of an exquisite circuit.
+
+Soon after the break, we went inside the auditorium to let ourselves get aweinspired by Mrs. Priya Darshini, as she talked about Universal Human Values. I found myself deeply invested in the lecture, writing everything I could hear of during those 2 hours of my day.
+
+Finally, before dispersal we were made familiar with the Causmic Club by our seniors. They mentioned about how they'll help us in speaking confidently on the stage in front of a whole bunch of people, and mind you, they were so comfortable with the stage themselves. No stage-fear at all, I mean, how cool is that!
+
+
+## Day5 (Tuesday)
+
+Today was a short one, especially for the CSE-A students, invested in formation of their first ID at GNDEC.
+
+
+## Day6 (Wednesday)
