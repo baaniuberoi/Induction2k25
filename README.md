@@ -45,3 +45,31 @@ Today was a short one, especially for the CSE-A students, invested in formation 
 
 
 ## Day6 (Wednesday)
+
+Our first lecture was led by Professor Karan Bhalla as he told us about the details of the college's exam and grading pattern apart from the recapitulation of previously learned concepts of chemistry, including those of salts and their formulae.
+
+Then was had an english lecture taken by the proficient Prof. Nisha. We learnt so much about phonetics today from her. Besides, she asked us to introduce ourselves to the entire class. I felt so nervous at first, but the professor's encouraging words made things so much better for me and my confidence.
+
+In our next hours inside the auditorium, we were motivated by S. Gurcharan Singh Grewal, trustee of Nankana Sahib Trust and member of SGPC. We came to know about "Vidya Manukh Da Vichaar" and how imporatant we are for the world through our engineer minds. He taught us about respcting our teachers as Gurus of Knowledge.
+
+Later, we were instructed about the CML by its incharge, Dr. Lakhbir Singh Khanna. He also informed us about the swayam portal that held the NPTEL courses.
+
+We had one more lecture in the pipeline, but luckily, the professor postponed it to the next day. What a long day it was surely!
+
+## Day7 (Thursday)
+
+Today, Dean Student Welfare, Dr. Parminder Singh talked about the support systems provided to us by the institution, mentioning about the sectors of education, sports and extracurriculars, internet service, and various clubs present. Followed by Taranpreet from D3 IT, as she mentioned about a portal called 'Taangh' to showcase our artistic abilities.
+
+Next up was the session on digital marketing club by Prof. Arvind Dhingra, involving amazing digital works by his trusted students.
+
+Later, Dr. Randhir Singh Sir held his talk on examination rules and patterns for evaluation, a bit overwhelming at first, but soon became easy to understand, all thanks to sir for his guidance.
+
+Then i went to the seminar hall to learn about DC Circuits from Prof. Harminder Kaur. We discussed about a few previously known and some new concepts today, such as types of circuits, current and voltage and other fascinating topics.
+
+In the last block of time, we had a quick introduction session with our seniors that made us familiar to their fun-loving yet disciplines nature, which we have to now follow to maintain their legacy.
+
+## Day8 (Friday)
+
+We took our seats in the TCC Seminar hall, where we first got to know about the power of Millets as a Superfood, a lecture led by Mrs. Shaffy Makkar, highlighting their benefits in not just the process of digestion, but in also being useful to cure several health problems, beisides being brain enhancers.
+
+After this biology-packed session, we met Prof. Gagandeep Lotey, who told us about the logic behind infinty, or why we consider the left side of a closed loop as its inside, or the part that it has control over. No, it wasn't philosophy, it was mathematics!
