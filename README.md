@@ -2,8 +2,6 @@
 
 Greetings of the Day readers!
 
-![e5c378d8-04f1-465b-accf-b1e0f7046f73](https://github.com/user-attachments/assets/e07c11b2-5411-4d99-9e1f-70260382c45e)
-
 
 I am Baani Uberoi. This is a log journal providing insight into all my activities, important conversations, and fun experiences during the Induction Program 2025 at GNDEC, Ludhiana. 
 
