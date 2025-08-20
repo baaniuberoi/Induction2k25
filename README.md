@@ -17,12 +17,15 @@ After this, we were lead to our respective departments, to be seated in the clas
 
 
 ## Day2 (Friday)
+
+financial advisor session
+
 It felt like an overwhelming experience, taking not one, but two proficiency tests on the very second day, one for English and one for the dreadful one, Mathematics. Nonetheless, my tests went good (hopefully!).
 
 Catching up with friends after the test felt like a relief as I came to know that we all were on the boat of mixed emotions regarding the test.
 
 Soon, we were back inside the auditorium, where three speakers enlightened us about the Satya Scholarship. Apart from the scheme, I appreciated how confident they were on the stage, and how comfortable they made us all feel with themselves.
-Next in line was a super informative session on food and healthy eating habits, busting several common myths about food and portion control.
+Next in line was a super informative session on food and healthy eating habits, busting several common myths about food and portion control. (came to know about the do's and don'ts of eating along with various myths about it that we face in daily life)
 
 Well, it was now time to call it a day; however, we got a crisp session on building our first GitHub project, under the title of the induction program, where seniors talked about READMEs, markdown language, and other cool stuff.
 
