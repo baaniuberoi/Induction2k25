@@ -6,7 +6,7 @@ Greetings of the Day readers!
 I am Baani Uberoi. This is a log journal providing insight into all my activities, important conversations, and fun experiences during the Induction Program 2025 at GNDEC, Ludhiana. 
 
 
-## Day1 (Thursday)
+## Day1 (31 July, Thursday)
 The day began with glee and excitement, as every fresher wore their best clothes as they walked into the campus for the very first time, ready to be the brilliant minds of GNDEC, all headed towards the college Gurdwara Sahib.
 
 None were prepared for the absolute divinity that they were about to experience inside the Gurdwara Sahib. Walking into the Darbar Sahib, filled with talent and creativity in the form of young 17-year-olds, instilled a sense of confidence deep within me. My respect for my culture grew even more when the hall was filled with the echoes of Naam Simran sung in unison by the sangat.
@@ -16,7 +16,7 @@ However, this was not the only thing that mesmerized the being on that day. Upon
 After this, we were lead to our respective departments, to be seated in the classrooms that will be ours, not yet, but in the next year. Here, we were made familiar with the regal values of our institution, its adaptability, and beyond par strength. We were given a vision of ourselves, excelling in every sphere of our life, be it academic or extracurricular, and saw ourselves growing as a humans, here in this institution.
 
 
-## Day2 (Friday)
+## Day2 (1 August, Friday)
 
 financial advisor session
 
@@ -30,7 +30,7 @@ Next in line was a super informative session on food and healthy eating habits, 
 Well, it was now time to call it a day; however, we got a crisp session on building our first GitHub project, under the title of the induction program, where seniors talked about READMEs, markdown language, and other cool stuff.
 
 
-## Day3 (Saturday)
+## Day3 (2 August, Saturday)
 
 We had two auditorium lectures today. The first was taken by the in-charge of IAPT, Dr. Jaswinder Singh, and the second by Dr. Priya Darshini on Universal Human Values.
 
@@ -38,7 +38,7 @@ During the first session, we experienced how life was all about Mathematics and 
 
 Next in line was a beautiful session by Dr. Priya Darshini on Universal Human Values, where she talked about true happiness and how emaculately different it was from feelings of excitement and other stimuli. Each and every word she spoke provided immense clarity to all the individuals seated.
 
-## Day4 (Monday)
+## Day4 (4 August, Monday)
 
 The morning session started with two beautiful seniors who welcomed us for our first P2P lecture. It felt awesome to learn from someone whom you would aspire to become like one day, confident, friendly, and ofcourse, knowledgeable to the core. They provided us with an insight into the world of C++, the very first language of every techie like me. 
 
@@ -49,12 +49,12 @@ Soon after the break, we went inside the auditorium to let ourselves get aweinsp
 Finally, before dispersal, we were made familiar with the Causmic Club by our seniors. They mentioned about how they'll help us in speaking confidently on the stage in front of a whole bunch of people, and mind you, they were so comfortable with the stage themselves. No stage-fear at all, I mean, how cool is that!
 
 
-## Day5 (Tuesday)
+## Day5 (5 August, Tuesday)
 
 Today was a short one, especially for the CSE-A students, invested in formation of their first ID at GNDEC.
 
 
-## Day6 (Wednesday)
+## Day6 (6 August, Wednesday)
 
 Our first lecture was led by Professor Karan Bhalla as he told us about the details of the college's exam and grading pattern apart from the recapitulation of previously learned concepts of chemistry, including those of salts and their formulae.
 
@@ -66,7 +66,7 @@ Later, we were instructed about the CML by its in-charge, Dr. Lakhbir Singh Khan
 
 We had one more lecture in the pipeline, but luckily, the professor postponed it to the next day. What a long day it was surely!
 
-## Day7 (Thursday)
+## Day7 (7 August, Thursday)
 
 Today, Dean of Student Welfare, Dr. Parminder Singh, talked about the support systems provided to us by the institution, mentioning about the sectors of education, sports and extracurriculars, internet service, and various clubs present. Followed by Taranpreet from D3 IT, as she mentioned about a portal named 'Taangh' to showcase our artistic abilities.
 
@@ -78,7 +78,7 @@ Then I went to the seminar hall to learn about DC Circuits from Prof. Harminder 
 
 In the last block of time, we had a quick introduction session with our seniors that made us familiar to their fun-loving yet disciplines nature, which we have to now follow to maintain their legacy.
 
-## Day8 (Friday)
+## Day8 (8 August, Friday)
 
 We took our seats in the TCC Seminar hall, where we first got to know about the power of Millets as a Superfood, a lecture led by Mrs. Shaffy Makkar, highlighting their benefits in not just the process of digestion, but also being useful to cure several health problems, besides being brain enhancers.
 
