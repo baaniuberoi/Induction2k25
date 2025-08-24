@@ -34,6 +34,10 @@ Well, it was now time to call it a day; however, we got a crisp session on build
 
 We had two auditorium lectures today. The first was taken by the in-charge of IAPT, Dr. Jaswinder Singh, and the second by Dr. Priya Darshini on Universal Human Values.
 
+During the first session, we experienced how life was all about Mathematics and that Mathematics was all about life and that one could suffice without the other, how wonderful! The realization about seeing His presence in every spec and every person around made all the students mesmerized by all that they heard then. Shortly after, mind boggling experiments left everyone stunned and super excited.
+
+Next in line was a beautiful session by Dr. Priya Darshini on Universal Human Values, where she talked about true happiness and how emaculately different it was from feelings of excitement and other stimuli. Each and every word she spoke provided immense clarity to all the individuals seated.
+
 ## Day4 (Monday)
 
 The morning session started with two beautiful seniors who welcomed us for our first P2P lecture. It felt awesome to learn from someone whom you would aspire to become like one day, confident, friendly, and ofcourse, knowledgeable to the core. They provided us with an insight into the world of C++, the very first language of every techie like me. 
@@ -79,3 +83,9 @@ In the last block of time, we had a quick introduction session with our seniors 
 We took our seats in the TCC Seminar hall, where we first got to know about the power of Millets as a Superfood, a lecture led by Mrs. Shaffy Makkar, highlighting their benefits in not just the process of digestion, but also being useful to cure several health problems, besides being brain enhancers.
 
 After this biology-packed session, we met Prof. Gagandeep Lotey, who told us about the logic behind infinty, or why we consider the left side of a closed loop as its inside, or the part that it has control over. No, it wasn't philosophy, it was mathematics!
+
+## Day9 (23 August, Saturday)
+
+Today, we interacted with the representatives of the English Club, who showcased immense confidence and originality in their work as they spoke of it. Each and every student could comfortably share their doubts and suggestions for a much welcomed discussion, enhancing the admiration of the club.
+
+Subsequently, we had a discussion with the Mathematics Club, informing us about several events and activities that they were organising for us.
